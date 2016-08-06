@@ -1,0 +1,40 @@
+_repo: WaltonianaInedited-Remains-in-Verse-and-Prose-of-Izaak-Walton_9631
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walton, Izaak
+    aliases:
+    - Walton, Isaac
+    - Walton, Izaac
+    - Walton, I. (Izaak)
+    - Walton, Isaak
+    - Walton, Izaack
+    birthdate: 1593
+    deathdate: 1683
+    gutenberg_agent_id: '350'
+    url: http://www.gutenberg.org/2009/agents/350
+    wikipedia: http://en.wikipedia.org/wiki/Izaak_Walton
+  editor:
+    agent_name: Shepherd, Richard Herne
+    alias: Shepherd, R. H. (Richard Herne)
+    birthdate: 1842
+    deathdate: 1895
+    gutenberg_agent_id: '36973'
+    url: http://www.gutenberg.org/2009/agents/36973
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature'
+- GITenberg
+title: 'Waltoniana
+
+  Inedited Remains in Verse and Prose of Izaak Walton'
+url: http://www.gutenberg.org/ebooks/9631
